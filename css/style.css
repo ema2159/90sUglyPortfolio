@@ -1,0 +1,14 @@
+body {
+    background-color: #dbe2ef;
+}
+
+hr {
+    background-color: inherit;
+    border-style: none;
+    border-top: 7px dotted #3f72af;
+    width: 10%;
+}
+
+h1, h2, h3 {
+    color: #112d4e;
+}
